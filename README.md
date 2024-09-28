@@ -1,4 +1,4 @@
-# Sales-Insights-Dashboard-of-Atliq-Hardware-Company-
+# Sales-Insights-Dashboard-of-Atliq-Hardware-Company
 This Sales Insight Dashboard gives complete insights on the Dynamically changing Sales of Atliq Hardware.
 Note that this is a Data Analysis on a real database of Atliq Hardware Company.
 This project answers the major problem statements :
